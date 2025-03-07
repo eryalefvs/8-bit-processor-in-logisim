@@ -1,4 +1,4 @@
-# Simulador de Processador de 8 bits no Logisim
+# 🧮🖥 Simulador de Processador de 8 bits no Logisim
 
 ## Descrição do Projeto
 Este projeto consiste em um simulador de processador desenvolvido para compreender o funcionamento interno de uma CPU, feito na matéria de Concepção Estruturada de Circuitos Integrados, 6º período. Ele apresenta uma representação visual dos componentes essenciais de um processador, incluindo registradores, barramentos, unidade lógica e aritmética (ALU), contador de programa, memória e outros elementos fundamentais. O objetivo é demonstrar como esses componentes interagem para buscar, decodificar e executar instruções.
